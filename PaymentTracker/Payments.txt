@@ -1,0 +1,7 @@
+usd 1000
+czk 400
+czk -300
+eur 220
+usd 14
+czk 900
+eur -200
