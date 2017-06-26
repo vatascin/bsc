@@ -8,8 +8,8 @@ Application runs as runnable jar
 Run command: java -jar paymentTracker.jar [fileName]
 fileName - file name with path of file with payments, can be omitted
 Format of the payment file: USD 23
-							EUR 77
-							CZK 100
+			EUR 77
+			CZK 100
 Application reads the payments from the file (if entered).
 Ones per minute it prints the payment status in the console. If amount of a currency is 0, no output for this 
 currency will be generated.
